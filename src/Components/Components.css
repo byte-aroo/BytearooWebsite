@@ -1,0 +1,33 @@
+.social-buttons-a {
+  width: 160px;
+  height: auto;  
+}
+
+.header-logo {
+  max-width: 100%;
+}
+
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+@media (max-width: 766px) {
+  .header-logo {
+    /* Add styles to reduce the size of the image on smaller screens */
+    max-width: 50%; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10%;
+  }
+
+  .row {
+    display: block;
+    height: auto;
+  }
+
+}
