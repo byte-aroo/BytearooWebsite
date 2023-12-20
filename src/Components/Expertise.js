@@ -164,10 +164,26 @@ class Expertise extends Component {
     );
 
     return (
-      <section id="resume">
-        <div style={{ textAlign: "center", paddingBottom: "50px" }}>
+      <section id="expertise" style={{ background: "whitesmoke" }}>
+        <div
+          style={{
+            textAlign: "center",
+            paddingBottom: "50px",
+            paddingTop: "50px",
+          }}
+        >
           <h1>
-            <span>Expertise</span>
+            <span
+              style={{
+                fontFamily: "opensans-bold",
+                fontSize: "26px",
+                color: "#313131",
+                borderBottom: "solid #87CEEB",
+                color: "black"
+              }}
+            >
+              Expertise
+            </span>
           </h1>
         </div>
 

@@ -19,9 +19,9 @@ class About extends Component {
             <div className="nine columns main-col">
               <h2>About Us</h2>
               <p>{bio}</p>              
-              <h6 style={{color: "white"}}>
+              <h5 style={{color: "white"}}>
                 {subBio}
-              </h6>
+              </h5>
             </div>
           </div>
         </Fade>
