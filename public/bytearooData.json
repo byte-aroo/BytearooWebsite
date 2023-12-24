@@ -252,9 +252,18 @@
     "projects": [
       {
         "title": "School Management",
-        "category": "My Travel Blog for my post-university travels",
+        "category": "School management application that helps students, teachers and guardian to track student progress.",
         "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "features": [
+          "Role based application having roles: Super-Admin, Admin's, Teacher's, Student's",
+          "On app attendance system also integrated with biometric scanner.",
+          "Event Calendar where everyone can see upcoming events, whereas Admin and Super-Admin can add or update.",
+          "Thought of the day notification.",
+          "Students progress report where student and their guardian can track student's detailed progress report on monthly or yearly basis which include attendance data, marks report, quiz results etc.",
+          "Media Area: which includes event's images and videos.",
+          "Quiz Section: Teacher can organise a quiz on app and students can get instant results."
+        ],
+        "finalMessage": "That's just a glimpse of what we made, the original app is packed with more functionality."
       },
       {
         "title": "Fury Fighting Gear",
@@ -323,5 +332,11 @@
         "url": "https://www.canadianwanderlust.com"
       }
     ]
-  }
+  },
+  "testimonials": [
+    {
+      "text": "Your satisfaction, Our promise",
+      "user": "Turning Ideas into Reality: Contact Us on channels listed below for a Glimpse of Our Innovation Showcase."
+    }
+  ]
 }

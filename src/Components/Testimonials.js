@@ -1,15 +1,20 @@
-import React, { Component } from "react-awesome-reveal";
+import React, { Component } from "react";
+// import Fade from "react-awesome-reveal";
 
 class Testimonials extends Component {
   render() {
-    if (!this.props.data) return null;
+    if (!this.props.data) {
+      return null;
+    }
 
-    const testimonials = this.props.data.testimonials.map(function(testimonials) {
+    const testimonials = this.props.data.map(function (testimonial) {
       return (
-        <li key={testimonials.user}>
+        <li key={testimonial.user}>
           <blockquote>
-            <p>{testimonials.text}</p>
-            <cite>{testimonials.user}</cite>
+            <p>{testimonial.text}</p>
+            <h2>
+              <cite>{testimonial.user}</cite>
+            </h2>
           </blockquote>
         </li>
       );
