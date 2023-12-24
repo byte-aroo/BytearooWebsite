@@ -1,0 +1,342 @@
+{
+  "main": {
+    "name": "ByteAroo",
+    "tagline": "Transforming businesses, one byte at a time - Bytearoo, your trusted IT advisor !",
+    "description": "We Imagine. We Engineer. We Modernize. We Digitize. We Automate. We Unlock.",
+    "logo": "BytearooLogo.png",
+    "bio": "Bytearoo is an IT company that specializes in providing innovative and customized solutions to businesses of all sizes. With a team of experienced and skilled professionals, our company offers a wide range of services including software development, web development, mobile app development and IT consulting. Our company is committed towards providing highest level of service to its clients and strives to create long-term partnerships that deliver value and success. We are known for our expertise in latest technologies, agility in adapting to changing market trends, and ability to deliver projects on time and within budget. Our approach to IT solutions is based on a deep understanding of client's businesses and their unique requirements. Whether it's developing a new software application, designing a website, or implementing a strategy, our team works closely with client's to deliver solutions that are tailored to client's needs. In summary, Bytearoo is a dynamic and innovative IT company that helps businesses leverage the power of technology to achieve their goals and stay ahead of the competition.",
+    "subBio": "We're a dynamic and innovative company helping businesses leveraging the power of technology to achieve their goals and stay ahead of the competition.",
+    "contactmessage": "You can reach out to us in following way. We love to have chit-chats waiting for your message.",
+    "email": "bytearoo@bytearoo.com",
+    "phone": "+91 6375-874079",
+    "emailhref": "mailto:bytearoo@bytearoo.com",
+    "linkedin": "linkedin.com/company/bytearoo/",
+    "linkedinhref": "https://www.linkedin.com/company/bytearoo/",
+    "whatsapphref": "http://wa.me/916375874079",
+    "social": [
+      {
+        "name": "email",
+        "url": "mailto:bytearoo@bytearoo.com",
+        "className": "far fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/bytearoo/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "whatsapp",
+        "url": "http://wa.me/916375874079",
+        "className": "fa fa-whatsapp"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/byte-aroo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "expertise": {
+    "chatbot": [
+      {
+        "title": "Chatbots",
+        "subHeading": "Chatbots for your needs",
+        "feature": "🌟 AI Enabled",
+        "description": "In the rapidly evolving business landscape, stellar communication is your ultimate weapon. Presenting ByteAroo's breakthrough: WhatsApp/Telegram/Facebook Chatbots along with Website Integrations – a dynamic solution meticulously designed to supercharge your customer interactions across industries. With an unwavering commitment to cutting-edge software solutions, ByteAroo unveils a diverse range of chatbots poised to reshape how you connect with your audience.",
+        "modal": {
+          "content": [
+            {
+              "heading": "🚀 Elevate Your Business Communications with ByteAroo's Innovations! 🚀",
+              "value": "In the rapidly evolving business landscape, stellar communication is your ultimate weapon. Presenting ByteAroo's breakthrough: WhatsApp/Telegram/Facebook Chatbots along with Website Integrations – a dynamic solution meticulously designed to supercharge your customer interactions across industries. With an unwavering commitment to cutting-edge software solutions, ByteAroo unveils a diverse range of chatbots poised to reshape how you connect with your audience. 🌟"
+            },
+            {
+              "heading": "🎯 Unparalleled Personalization",
+              "value": "Each chatbot is a masterpiece, tailored to your industry's unique demands. From e-commerce to healthcare, finance to any sector, ByteAroo chatbots are finely tuned to understand industry-specific language and offer personalized solutions. Forge a deep connection that breeds loyalty like never before! 💼💬"
+            },
+            {
+              "heading": "🌐 Multichannel Magic",
+              "value": "ByteAroo's chatbots don't just sync with WhatsApp and Facebook – they seamlessly integrate with websites too! Engage customers on their turf, whether it's a messaging app or your official site. Consistent excellence across channels ensures an extraordinary user experience. 📱🌐"
+            },
+            {
+              "heading": "🌝 24/7 Availability",
+              "value": "Forget about closing the shop! With ByteAroo's chatbots, your customer support is open 24/7. Quick questions or in-depth assistance – your chatbot delivers prompt responses and valuable info, leaving customers thrilled and satisfied. 🌙🕒"
+            },
+            {
+              "heading": "🚀 Effortless Engagement",
+              "value": "Connecting with your audience has never been smoother. ByteAroo chatbots initiate conversations, ask relevant questions, and provide information naturally – just like a human. Forge authentic connections that skyrocket conversion rates and customer loyalty. 💬🤖"
+            },
+            {
+              "heading": "📊 Data-Driven Brilliance",
+              "value": "Beyond communication, ByteAroo's innovations deliver analytics gold. Gain priceless insights into customer preferences, FAQs, and emerging trends. Armed with this knowledge, refine strategies, make informed choices, and outpace competitors. 📈💡"
+            },
+            {
+              "heading": "🎨 Customization Unleashed",
+              "value": "Every business is unique, and our chatbots reflect that. Fully customize them to embody your brand's identity, tone, and style. From UI to conversation flow, craft an experience that resonates deeply with your audience. 🎨✨"
+            },
+            {
+              "heading": "🚀 Seize Tomorrow, Today!",
+              "value": "ByteAroo's WhatsApp/Facebook Chatbots and Website Integrations aren't just solutions – they're your competitive edge. Elevate customer service, amplify engagement, and unveil new growth avenues across industries. Embrace ByteAroo's technology prowess to revolutionize your business interactions! 🌐🚀"
+            }
+          ],
+          "finalMessage": "Discover the boundless potential of ByteAroo's chatbots and website integrations. Ignite a new era of customer engagement. Reach out to us today and explore the limitless horizons of our tailored software solutions, meticulously crafted to your industry's needs and your business goals. 📲",
+          "image": "images/expertise/Chatbot.png"
+        }
+      }
+    ],
+    "website": [
+      {
+        "title": "Web-Apps & SaaS",
+        "subHeading": "Websites that WoW",
+        "feature": "🌐 Crafting Digital Marvels",
+        "description": "From sleek portfolios to dynamic e-commerce platforms, we specialize in creating websites that captivate, engage, and convert. Our designs are more than pixels – they're experiences that leave a lasting impression. Our web applications are engineered to streamline workflows, enhance collaboration, and elevate your business efficiency. We turn your ideas into intuitive interfaces that users will love.",
+        "modal": {
+          "content": [
+            {
+              "heading": "🚀 Bytearoo: Where Digital Dreams Come to Life! 🚀",
+              "value": "Welcome to Bytearoo, your gateway to limitless digital possibilities. We're not just a software company – we're your partners in innovation, your architects of transformation. With boundless creativity and cutting-edge technology, we craft websites, web applications, and system applications that transcend expectations."
+            },
+            {
+              "heading": "🎨 The Art of Crafting Digital Marvels",
+              "value": [
+                {
+                  "heading": "🌐 Websites That Wow: ",
+                  "value": "From sleek portfolios to dynamic e-commerce platforms, we specialize in creating websites that captivate, engage, and convert. Our designs are more than pixels – they're experiences that leave a lasting impression."
+                },
+                {
+                  "heading": "🌟 Web Applications: ",
+                  "value": "Need a powerful tool that operates in the cloud? Our web applications are engineered to streamline workflows, enhance collaboration, and elevate your business efficiency. We turn your ideas into intuitive interfaces that users will love."
+                }
+              ]
+            },
+            {
+              "heading": "💡 Why Bytearoo Stands Out",
+              "value": [
+                {
+                  "heading": "✅ Versatile Creativity: ",
+                  "value": "Whether it's a sleek minimalistic design or a feature-rich application, we create solutions that are as unique as your business."
+                },
+                {
+                  "heading": "✅ Cutting-Edge Tech: ",
+                  "value": "We don't just keep up with trends; we set them. Our experts wield the latest technologies to ensure your software is ahead of the curve."
+                },
+                {
+                  "heading": "✅ User-Centric Design: ",
+                  "value": "We understand that user experience is paramount. Our designs focus on usability, engagement, and conversions, ensuring your audience keeps coming back."
+                },
+                {
+                  "heading": "✅ Agile Development: ",
+                  "value": "Our iterative approach means we're adaptable and responsive. We work closely with you to refine and optimize your project throughout its lifecycle."
+                },
+                {
+                  "heading": "✅ Innovation at Heart: ",
+                  "value": "Creativity is our driving force. We're not just developers; we're innovators who revel in turning your ideas into reality."
+                }
+              ]
+            }
+          ],
+          "finalMessage": "Bytearoo isn't just a software company – we're a catalyst for change. We understand that every line of code we write shapes the future of your business. Join us on a journey of innovation, where your digital dreams come to life in vibrant, immersive ways. Connect with Bytearoo today, and let's embark on a digital revolution together! 🌐",
+          "image": "images/expertise/Website.png"
+        }
+      }
+    ],
+    "mobileApplication": [
+      {
+        "title": "Mobile Applications",
+        "subHeading": "App-tastic Applications",
+        "feature": "📱 Your App, Our Expertise",
+        "description": "Seamlessly crafted, our apps combine functionality with a stunning user experience, ensuring your brand shines in the palm of every user's hand. Whether you're envisioning the next big thing or need to revamp your existing app, we've got you covered. We create innovative, cross-platform apps that takes your business to new heights.",
+        "modal": {
+          "content": [
+            {
+              "heading": "Unlock the App-tastic Future with Bytearoo! 🚀",
+              "value": "🌟 Looking for top-notch mobile applications for both Android and iOS? Your search ends here! Bytearoo is your go-to destination for innovative, cross-platform app development that takes your business to new heights."
+            },
+            {
+              "heading": "What we offer 🔥",
+              "value": "📊 Seamlessly crafted, our apps combine functionality with a stunning user experience, ensuring your brand shines in the palm of every user's hand. Whether you're envisioning the next big thing or need to revamp your existing app, we've got you covered."
+            },
+            {
+              "heading": "Our experience 🗣️",
+              "value": "💡 Our expert developers bring your ideas to life, creating apps that not only meet your needs but exceed your expectations. Stay ahead of the curve in the ever-evolving mobile landscape with Bytearoo's cutting-edge solutions."
+            }
+          ],
+          "finalMessage": "Don't wait just seize the mobile frontier with Bytearoo's exceptional app development services. Your app dream, our expertise.... Let's make it happen! 📱",
+          "image": "images/expertise/Mobile.png"
+        }
+      }
+    ],
+    "systemSoftware": [
+      {
+        "title": "System Softwares",
+        "subHeading": "Business Software Solutions",
+        "feature": "🖥️ For Your Unique Needs",
+        "description": "We specialize in crafting personalized software solutions designed to seamlessly integrate into your existing systems. Our mission is to empower your business with custom software that not only fits like a glove but also boosts efficiency, productivity, and profitability.",
+        "modal": {
+          "content": [
+            {
+              "heading": "Tailor-Made Business Software Solutions for Your Unique Needs 📈🖥️",
+              "value": "At Bytearoo, we specialize in crafting personalized software solutions designed to seamlessly integrate into your existing systems. Our mission is to empower your business with custom software that not only fits like a glove but also boosts efficiency, productivity, and profitability."
+            },
+            {
+              "heading": "Why settle for less 🔥",
+              "value": "Why settle for off-the-shelf software when you can have a solution that aligns perfectly with your business processes? Our expert developers work closely with you to understand your specific requirements and design software that not only meets but exceeds your expectations."
+            }
+          ],
+          "finalMessage": "Whether you're in finance, healthcare, manufacturing, or any other industry, Bytearoo has the expertise to create software that streamlines your operations and drives success. 💼",
+          "image": "images/expertise/System.png"
+        }
+      }
+    ],
+    "managementSoftware": [
+      {
+        "title": "Management Softwares",
+        "subHeading": "Management Suite",
+        "feature": "🔑 All-in-One, AI-Enhanced Solution!",
+        "description": "Our software doesn't just fit your business – it molds to it. Whether it's healthcare, retail, hospitality, or any other sector, our software adapts seamlessly to your processes, giving you a tailor-made experience that aligns perfectly with your goals.",
+        "modal": {
+          "content": [
+            {
+              "heading": "🌟 Discover Bytearoo Management Suite: Your All-in-One, AI-Enhanced Solution! 🌟",
+              "value": "Revolutionize your business operations with Bytearoo Management Suite – the ultimate customizable software that transcends industries. No matter your business's unique needs, Bytearoo empowers you with AI-enabled tools to streamline, optimize, and flourish like never before."
+            },
+            {
+              "heading": "🔑 Unleash the Power of Bytearoo Management Suite",
+              "value": [
+                {
+                  "heading": "🚀 Fully Customized Solutions: ",
+                  "value": "Bytearoo doesn't just fit your business – it molds to it. Whether it's healthcare, retail, hospitality, or any other sector, our software adapts seamlessly to your processes, giving you a tailor-made experience that aligns perfectly with your goals."
+                },
+                {
+                  "heading": "🤖 AI-Driven Excellence: ",
+                  "value": "Witness the future of management software with Bytearoo's AI integration. From predictive analytics to intelligent automation, our AI-driven features empower you to make smarter decisions, faster."
+                },
+                {
+                  "heading": "💡 Limitless Possibilities: ",
+                  "value": "Bytearoo is your canvas, ready to bring your unique ideas to life. Our software isn't just a tool – it's a creative space where your business innovations can flourish, powered by cutting-edge technology."
+                }
+              ]
+            },
+            {
+              "heading": "💎 Why Bytearoo Management Suite is Your Competitive Edge",
+              "value": [
+                {
+                  "heading": "✅ AI for the Win: ",
+                  "value": "Our AI capabilities aren't just a buzzword – they're a game-changer. With predictive insights and adaptive solutions, you'll be steps ahead in anticipating market trends and customer preferences."
+                },
+                {
+                  "heading": "✅ Seamless Integration: ",
+                  "value": "Our softwares effortlessly integrates into your existing ecosystem. Say goodbye to disruptions and hello to enhanced efficiency without the hassle of a steep learning curve."
+                },
+                {
+                  "heading": "✅ Scalable and Future-Proof: ",
+                  "value": "Bytearoo grows with you. As your business evolves, our software evolves with you, ensuring that your operations remain optimized and ahead of the curve."
+                },
+                {
+                  "heading": "✅ Unleash Innovation: ",
+                  "value": "Bytearoo is more than a IT compay – it's your innovation partner. Our platform empowers you to ideate, experiment, and create groundbreaking solutions that propel your business forward."
+                },
+                {
+                  "heading": "✅ Dedicated Support: ",
+                  "value": "We don't make deals – we make relationships. Our dedicated support team ensures that you're not just using software, but leveraging a partner committed to your success."
+                }
+              ]
+            }
+          ],
+          "finalMessage": "Step into a new era of efficiency, innovation, and growth with Bytearoo Management Suite. Your business isn't just managed – it's empowered to thrive. Connect with our experts today to embark on a transformative journey that will redefine the way you operate across industries. Success knows no limits with Bytearoo – let's shape it together! 🚀🌟",
+          "image": "images/expertise/Management.png"
+        }
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "School Management",
+        "category": "School management application that helps students, teachers and guardian to track student progress.",
+        "image": "01.jpg",
+        "features": [
+          "Role based application having roles: Super-Admin, Admin's, Teacher's, Student's",
+          "On app attendance system also integrated with biometric scanner.",
+          "Event Calendar where everyone can see upcoming events, whereas Admin and Super-Admin can add or update.",
+          "Thought of the day notification.",
+          "Students progress report where student and their guardian can track student's detailed progress report on monthly or yearly basis which include attendance data, marks report, quiz results etc.",
+          "Media Area: which includes event's images and videos.",
+          "Quiz Section: Teacher can organise a quiz on app and students can get instant results."
+        ],
+        "finalMessage": "That's just a glimpse of what we made, the original app is packed with more functionality."
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "Your satisfaction, Our promise",
+      "user": "Turning Ideas into Reality: Contact Us on channels listed below for a Glimpse of Our Innovation Showcase."
+    }
+  ]
+}
