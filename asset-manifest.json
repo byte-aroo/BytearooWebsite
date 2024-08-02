@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d12b829.css",
-    "main.js": "/static/js/main.1f2c61a6.js",
-    "static/js/488.d3f6ccfb.chunk.js": "/static/js/488.d3f6ccfb.chunk.js",
-    "index.html": "/index.html",
-    "main.6d12b829.css.map": "/static/css/main.6d12b829.css.map",
-    "main.1f2c61a6.js.map": "/static/js/main.1f2c61a6.js.map",
-    "488.d3f6ccfb.chunk.js.map": "/static/js/488.d3f6ccfb.chunk.js.map"
+    "main.css": "/BytearooWebsite/static/css/main.6d12b829.css",
+    "main.js": "/BytearooWebsite/static/js/main.6f225637.js",
+    "static/js/488.d3f6ccfb.chunk.js": "/BytearooWebsite/static/js/488.d3f6ccfb.chunk.js",
+    "index.html": "/BytearooWebsite/index.html",
+    "main.6d12b829.css.map": "/BytearooWebsite/static/css/main.6d12b829.css.map",
+    "main.6f225637.js.map": "/BytearooWebsite/static/js/main.6f225637.js.map",
+    "488.d3f6ccfb.chunk.js.map": "/BytearooWebsite/static/js/488.d3f6ccfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d12b829.css",
-    "static/js/main.1f2c61a6.js"
+    "static/js/main.6f225637.js"
   ]
 }
